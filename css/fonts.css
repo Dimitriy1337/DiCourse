@@ -1,0 +1,46 @@
+h1 {
+	font-family: 'Didact Gothic', sans-serif;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 42px;
+	line-height: 120%;
+	color: #242A2F;
+}
+h2 {
+	font-family: 'Didact Gothic', sans-serif;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 36px;
+	line-height: 120%;
+	color: #242A2F;
+}
+h3 {
+	font-family: 'Didact Gothic', sans-serif;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 28px;
+	line-height: 120%;
+	color: #242A2F;
+}
+h4{
+	font-family: 'Arimo', sans-serif;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	line-height: 18px;
+	color: #242A2F;
+}
+h5{
+
+}
+h6 {
+
+}
+p {
+	font-family: 'Arimo', sans-serif;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	line-height: 120%;
+	color: #242A2F;
+}
